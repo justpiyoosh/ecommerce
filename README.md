@@ -13,7 +13,7 @@ This backend system manages and processes orders in an e-commerce platform. It p
 
 ### 1️. Clone the Repository
 ```sh
-git clone <YOUR_GITHUB_REPO_URL>
+git clone https://github.com/justpiyoosh/ecommerce
 cd ecommerce
 ```
 
