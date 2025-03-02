@@ -56,6 +56,11 @@ python manage.py runserver
 celery -A ecommerce worker --loglevel=info
 ```
 
+### 6. Run tests
+```sh
+DJANGO_SETTINGS_MODULE=ecommerce.test_settings pytest
+```
+
 # API Examples
 
 ---
